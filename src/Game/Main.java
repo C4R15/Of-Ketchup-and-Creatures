@@ -4,7 +4,8 @@ import java.util.Scanner;
 
 //Written by Christopher McKay
 //Written 26/01/2014 (Americans, goodluck with figuring that out)
-//Story by Chris, but that doesn't matter
+//Story by Chris, but that doesn't matter.
+//Yes it does fam - Chris
 
 public class Main {
 	String usr;
